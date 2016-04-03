@@ -10,7 +10,8 @@ import Foundation
 
 class ACmebers {
     var ACmebersImage: String?
-    var ACmebersName: String?
-    var ACmebersDetail: String?
+    var ACmebersFirstName: String?
+    var ACmebersLastName: String?
+    var ACmebersIntro: String?
     
 }
