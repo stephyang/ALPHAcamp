@@ -5,6 +5,7 @@ use_frameworks!
 
 target 'ALPHAcamp' do
 	pod 'Alamofire'
+	pod 'SwiftyJSON'
 
 end
 
