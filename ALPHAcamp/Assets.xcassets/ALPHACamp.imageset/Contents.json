@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "ALPHACamp.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "ALPHACamp.png",
       "scale" : "2x"
     },
     {

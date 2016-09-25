@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
-      "filename" : "AmosChen.jpg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
+      "filename" : "AmosChen.jpg",
       "scale" : "2x"
     },
     {
